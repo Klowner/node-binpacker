@@ -1,0 +1,33 @@
+{
+  "name": "binpacker",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Mark Riedesel",
+    "email": "mark@klowner.com",
+    "url": "https://github.com/klowner/node-binpacker"
+  },
+  "homepage": "https://github.com/klowner/node-binpacker",
+  "keywords": [],
+  "main": "binpacker.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/klowner/node-binpacker.git"
+  },
+  "devDependencies": {
+    "jasminum": "0.0.4"
+  },
+  "scripts": {
+    "test": "jasminum test && npm run lint",
+    "lint": "jshint binpacker.js"
+  },
+  "bugs": {
+    "url": "https://github.com/klowner/node-binpacker/issues"
+  },
+  "maintainers": [
+    {
+      "name": "Klowner",
+      "email": "mark@klowner.com"
+    }
+  ]
+}
