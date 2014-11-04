@@ -135,4 +135,4 @@ Licensed under the MIT license.
 [coveralls-url]: https://coveralls.io/r/Klowner/node-binpacker
 [coveralls-image]: https://img.shields.io/coveralls/Klowner/node-binpacker.svg?style=flat
 [npm-url]: https://www.npmjs.org/package/binpacker 
-[npm-image]: http://img.shields.io/npm/v/node-binpacker.svg?style=flat
+[npm-image]: http://img.shields.io/npm/v/binpacker.svg?style=flat
