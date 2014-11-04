@@ -185,7 +185,7 @@ BinPacker.prototype = {
 			width: this.root.width,
 			height: this.root.height
 		};
-	},
+	}
 };
 
 module.exports = function () {

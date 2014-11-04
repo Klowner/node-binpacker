@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
-    "jasminum": "^0.0.4",
+    "jasminum": "0.0.4",
     "jshint": "^0.9.1"
   },
   "scripts": {
