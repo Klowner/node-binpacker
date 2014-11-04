@@ -1,5 +1,5 @@
 
-# binpacker [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
+# binpacker [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![NPM Version][npm-image]][npm-url]
 
 ## About
 
@@ -122,7 +122,7 @@ returned during the `.pack()` operation as the `rects` attribute.
 With [npm](http://npmjs.org) do:
 
 ```
-npm install node-binpacker
+npm install binpacker
 ```
 
 ## License
@@ -134,3 +134,5 @@ Licensed under the MIT license.
 [travis-image]: http://img.shields.io/travis/Klowner/node-binpacker.svg?style=flat
 [coveralls-url]: https://coveralls.io/r/Klowner/node-binpacker
 [coveralls-image]: https://img.shields.io/coveralls/Klowner/node-binpacker.svg?style=flat
+[npm-url]: https://www.npmjs.org/package/binpacker 
+[npm-image]: http://img.shields.io/npm/v/node-binpacker.svg?style=flat
