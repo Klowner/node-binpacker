@@ -128,3 +128,9 @@ npm install node-binpacker
 ## License
 Copyright (c) 2014 Mark Riedesel
 Licensed under the MIT license.
+
+
+[travis-url]: https://travis-ci.org/klowner/node-binpacker
+[travis-image]: http://img.shields.io/travis/klowner/node-binpacker.svg?style=flat
+[coveralls-url]: https://coveralls.io/r/Klowner/node-binpacker
+[coveralls-image]: https://img.shields.io/coveralls/Klowner/node-binpacker.svg?style=flat
