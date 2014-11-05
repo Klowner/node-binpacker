@@ -1,6 +1,8 @@
 
 # binpacker [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![NPM Version][npm-image]][npm-url]
 
+**Don't use this!** I managed to write this without somehow first discovering the very similarly named [binpacking](https://github.com/jsmarkus/node-bin-packing). You should probably use it or one of it's dependents, such as [layout](https://github.com/twolfson/layout) or [spritesheet-js](https://github.com/twolfson/layout).
+
 ## About
 
 This is a very small library designed to aid in taking an array of
